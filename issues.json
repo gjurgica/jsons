@@ -11,8 +11,8 @@
     "component": "Component1",
     "affectedVersion": "Version 1.0",
     "fixVersion": "3.5",
-    "assignee": 3,
-    "description": "This is a very special issue that needs to be fixed right away! Please look into it and take care.",
+    "Assignee": 3,
+    "Description": "This is a very special issue that needs to be fixed right away! Please look into it and take care.",
     "comments": [
       {
         "userID": 1,
